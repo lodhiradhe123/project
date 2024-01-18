@@ -1,3 +1,3 @@
 # project
-this is my first project repositry.
+this is my first project repositry. 
 Author - Radheshyam lodhi 
